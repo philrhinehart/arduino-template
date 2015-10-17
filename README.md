@@ -8,4 +8,4 @@ Put your code in the ```/src``` directory. Include at least one file with the st
 
 To build, run ```make``` from the src directory. Additional make targets: ```make clean```, ```make upload```, ```make monitor```, ```make upload_monitor```
 
-See the ```Makefile.master``` for details.
+See the [```Makefile.master```](https://github.com/philrhinehart/arduino-template/blob/master/Makefile.master) for details.

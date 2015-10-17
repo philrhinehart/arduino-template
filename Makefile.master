@@ -27,6 +27,8 @@
 # Minor adjustments for Mac OS X and for educational purposes by Maik Schmidt,
 # contact@maik-schmidt.de.
 #
+# Minor modifications by Phil Rhinehart, phil.rhinehart@gmail.com
+#
 # Makefile for building Arduino projects outside of the Arduino environment
 #
 # This makefile should be included into a per-project Makefile of the following
